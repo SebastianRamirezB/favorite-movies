@@ -1,0 +1,26 @@
+.filters {
+    display: flex;
+    height: 3rem;
+    width: 165px;
+    align-items: center;    
+}
+
+.filter-item {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-weight: 600;
+    transition: .5s ease-out;
+
+    
+    
+}
+
+.active {
+    background-color: #32E0C4;
+    color: black;
+    transition: .5s ease-out;
+}

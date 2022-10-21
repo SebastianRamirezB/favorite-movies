@@ -1,0 +1,11 @@
+
+
+.nav-search{
+    width: 100%;
+    display: flex;
+    align-items: center;  
+}
+
+.title-search{
+    text-transform: capitalize;
+}
